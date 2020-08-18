@@ -1,6 +1,6 @@
 <h2>Hola! 👋, I'm Nicolas Lefeld and im a web developer focused on the backend. 
 
-### If you want to know more about me, check my [**resume**](https://nicolaslefeld.github.io/) or **contact** me at [Linkedin](https://www.linkedin.com/in/nicolas-lefeld-232447180/)
+### If you want to know more about me, check my [**page**](https://nicolaslefeld.github.io/) or **contact** me at [Linkedin](https://www.linkedin.com/in/nicolas-lefeld-232447180/)
 
 
 <p align="center">
@@ -8,4 +8,4 @@
 </p>
 
 
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
+### `The good thing about science is that it’s true whether or not you believe in it.`- _Neil deGrasse Tyson_
