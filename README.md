@@ -6,6 +6,3 @@
 <p align="center">
 <img align="middle" src="https://media.giphy.com/media/26AHqZycSplGWWPAI/giphy.gif" width="250" height="250" />
 </p>
-
-
-### `The good thing about science is that it’s true whether or not you believe in it.`- _Neil deGrasse Tyson_
