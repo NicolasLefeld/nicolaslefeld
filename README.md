@@ -1,4 +1,4 @@
-<h2>Hola! 👋, I'm Nicolas Lefeld and im a web developer focused on the backend. 
+<h2>Hola! 👋, I'm Nicolas Lefeld and im a backend developer. 
 
 ### If you want to know more about me, check my [**page**](https://nicolaslefeld.github.io/) or **contact** me at [Linkedin](https://www.linkedin.com/in/nicolas-lefeld-232447180/)
 
