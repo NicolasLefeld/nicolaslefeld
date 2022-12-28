@@ -1,7 +1,7 @@
 <h2>Hola! 👋</h2>
 <h2>I'm Nicolas Lefeld and im a backend developer. </h2>
 
-### If you want to know more about me, check my [Linkedin](https://www.linkedin.com/in/nicolas-lefeld-232447180/) or at my **page** [**page**](https://nicolaslefeld.github.io/) 
+### If you want to know more about me, check my [Linkedin](https://www.linkedin.com/in/nicolas-lefeld/) or at my **page** [**page**](http://nicolaslefeld.github.io/resume) 
 
 
 <p align="center">
